@@ -9,6 +9,7 @@ public class Ex1 {
 		print1(23.22222f);
 		print1(15.23232d);
 		print1('d');
+		print1('c');
 
 	}
 	
